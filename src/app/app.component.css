@@ -1,0 +1,24 @@
+body{
+    width: 970px;;
+    margin: 0 auto;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    text-align: center;
+
+}
+.table{
+    width: 970px;
+}
+
+th{
+    width: 970px;
+    background-color: lightblue;
+}
+
+.header{
+    text-align: center;
+}
